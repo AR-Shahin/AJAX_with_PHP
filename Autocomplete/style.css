@@ -1,0 +1,11 @@
+*{
+    margin:0;
+    padding:0;
+}
+.skill_style{
+    background: #000;
+}
+ul li{
+    list-style:none;
+    cursor: pointer;
+}
