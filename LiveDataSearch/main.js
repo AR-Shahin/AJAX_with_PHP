@@ -11,6 +11,8 @@ $(document).ready(function(){
                     $('#searchTxt').html(data);
                 }
             })
+        }else {
+            $('#searchTxt').html('');
         }
     })
 });
